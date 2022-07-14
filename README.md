@@ -1,5 +1,6 @@
 # TugasAkhir-Praktikum-Metnum
-### Nama Anggota Kelompok 5 : 
+## Kelompok 5
+### Nama Anggota
 Nama | Nim
 ------------ | -------------
 Muhammad Athala Haykal | 26050119130123
