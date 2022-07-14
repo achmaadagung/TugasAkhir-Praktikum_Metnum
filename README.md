@@ -104,7 +104,7 @@ Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik meng
 
 ## Cara Penggunaan
 Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode penggunaan metode yang ada pada modul. 
-### * Modul 2 (Akar-akar Persamaan )
+### * Modul 2 (Akar-akar Persamaan)
 1. Metode Setengah Interval, dengan memasukkan nilai perkiraan untuk kondisi awal yaitu nilai pertama dan akhir yaitu nilai kedua pada kolom input
 2. Metode Interpolasi Linier, dengan memasukkan nilai pertama untuk kondisi awal pada kolom input
 3. Metode Newton-Rhapson, dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
@@ -127,7 +127,7 @@ Matriks 2 = [24.097, 4.097, 0.4303, 0.5256]
 3. Metode Simpson 1/3, dengan memasukkan persamaan  lambda x: **3 * (x^3) + 3 * (x^2)** dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
 4. Metode Simpson 3/8, dengan memasukkan persamaan  lambda x: **3 * (x^3) + 3 * (x^2)** dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
 
-### * Modul 5 (Persamaan Persamaan Differensial Biasa) 
+### * Modul 5 (Persamaan Differensial Biasa) 
 1. Metode Euler, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
 2. Metode Heun, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
 
